@@ -1,6 +1,6 @@
 # 오늘 이거 먹어!
 
-<img src="https://user-images.githubusercontent.com/89994290/149581775-126b2e83-cfd3-438a-b13a-2625160b4999.jpg">
+<img src="https://user-images.githubusercontent.com/89994290/149591319-968b5a98-5ca1-407f-80ba-65778039f25a.png">
 
 ## 소개😋
 '사람들이 하루 중 가장 많이 하는 고민이 뭘까?' <br/> 
