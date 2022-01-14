@@ -1,0 +1,28 @@
+/*result page*/
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-image: url("https://ncube.net/wp-content/uploads/2012/01/cfile10.uf_.162CCA384F1377851EC8A5.jpg");
+    background-color: aquamarine;
+    background-size: cover;
+    font-family: "BMHANNAPro";
+}
+
+body {
+    overflow-x: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+.food_name {
+    font-size: 10vh;
+    margin-bottom: 2%;
+}
